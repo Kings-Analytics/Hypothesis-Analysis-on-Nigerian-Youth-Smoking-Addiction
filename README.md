@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Project tests the hypothesis that "Over 5 million Nigerian youths are addicted to cigarette smoking". This analysis focused on hypothesis testing, confidence intervals, and visualizations of the results. The following sections summaize the work done during this session.
+This Project tests the hypothesis that "Over 5 million Nigerian youths are addicted to cigarette smoking". This analysis focus is on hypothesis testing, confidence intervals, and visualizations of the results. The following sections summaize the work done during this session.
 
 ## Table of Contents
 - Introduction
