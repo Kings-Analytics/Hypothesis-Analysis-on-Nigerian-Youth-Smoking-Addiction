@@ -38,3 +38,8 @@ Given that the lower bound of the confidence interval for the number of smokers 
 
 Therefore, the null hypothesis that the proportion of smokers is not greater than 5 million will be rejected. instead the Alternative hypothesis that the proportion of smokers is indeed greater than 5 million will be accepted.
     
+## Note:
+### The accuracy of the conclusion depends on the representativeness of the sample data.
+
+## Author
+### Onyenanu Kingsley
